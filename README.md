@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# UNIT PLAN NAME : Web Development
 by TEAM MEMBERS: Susie Seccafico Stacy Goldstein
 
 -----
