@@ -1,15 +1,21 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by TEAM MEMBERS: Susie Seccafico Stacy Goldstein
 
 -----
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
+Intro to Web design. One semester course
+- html -- headings, paragraphs, list
+- Css -- front, color, images, link (websites)
+- Final project create a website
+
 
 ---
 
 ### Motivation for Unit
 (why have you decided to make this?)
+- unit for students currently in an CSP course for after the exam. 
 
 ---
 
@@ -20,6 +26,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+HTML, CSS
 
 ---
 
