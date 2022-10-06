@@ -14,9 +14,21 @@ Intro to Web design. One semester course
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
-- unit for students currently in an CSP course for after the exam. 
-
+The motivation will be for students to bring their ideas to life and practice their skills in coding HTML/CSS. This unit will allow them to combine their interests with practical coding skills to make a project that is their own. 
+Students will be able to:
+Explain that HTML is a coding language that allows a programmer to communicate the way content should be organized on a web page
+Use HTML to a create document that uses opening and closing tags 
+Use heading tags to change the appearance of text on a web page.
+Structure content into headings, subheadings, and paragraphs.
+Use CSS selectors to style HTML text elements.
+Link to an external style sheet.
+Explain the differences between HTML and CSS in both use and syntax.
+Follow copyright law, accurately attributing others when using their work.
+Add an image to a web page.
+Use CSS properties to change the size, position, and borders of elements.
+Create a CSS rule-set for the body element that impacts all elements on the page.
+Group elements using classes to create more specific styles on their website.
+Use HTML to link between web pages.
 ---
 
 ### Standards Referenced
@@ -67,5 +79,11 @@ Total lenght: X Weeks
 
 ### Assesments
 (list summative and/or formative assessments used)
+Quiz - Mid way through the unit students will be quizzed on basic html and css text elements
+
+Gallery walk- As students progress through their website, they will do a gallery walk of other projects and provide feedback to their classmates on what they are doing well and opportunities for improvement.
+
+End of Unit assessment - Students will create a Website on a Social issue in our society that is important to them. Students will do research on this topic before delving into constructing the website in order to determine what the focus of their website will be and how it will help to alleviate the social issue they have identified. Students will be required to include certain elements in their website as specified by a rubric. 
+
 
 ---
