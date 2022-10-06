@@ -14,6 +14,7 @@ Intro to Web design. One semester course
 ---
 
 ### Motivation for Unit
+
 The motivation will be for students to bring their ideas to life and practice their skills in coding HTML/CSS. This unit will allow them to combine their interests with practical coding skills to make a project that is their own. 
 Students will be able to:
 Explain that HTML is a coding language that allows a programmer to communicate the way content should be organized on a web page
