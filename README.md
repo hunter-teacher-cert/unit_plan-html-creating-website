@@ -70,13 +70,18 @@ Digital Literacy
 -glitch
 -scrap paper to wireframe design of their website 
 -inspect tool on webpage 
+-pair programming
 
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
 
-w3schools website 
+-w3schools website 
+
+-access to examples of exemplar websites in terms of design and function and examples of poorly done websites. 
+
+-accessibility measure (online website) 
 
 ---
 
@@ -89,7 +94,21 @@ Lesson #1: Introduction to HTML (including headers, paragraphs, images, line bre
 
 Lesson #2: Students will make a webpage that showcases some of the basic skills they learned on the previous day. They will make a webpage of something they are interested in - like a hobby, a tiktok star they like, musician etc. 
 
-Lesson #3: Styling their website (CSS). Look at some prominent websites - what style do all successful websites have. We will learn how to do that and spruce up the existing websites they made using elemetns of CSS that we learned in this lesson. 
+Lesson #3: Styling their website (CSS). Look at some prominent websites - what style do all successful websites have (apple,google,amazon, Midwood website etc.). We will learn how to do that and spruce up the existing websites they made using basic elements of  CSS that we learned in this lesson such as spacing, centering, color, change of font etc.) 
+
+Lesson #4: More in depth practice with CSS. CSS selectors. Grids etc. 
+
+Lesson #5: Research a social cause they care about. Perhaps bring the librarian in to teach students how to find sources. Students will work to write a proposal for a social cause they want to tackle with a website. (Groups of 2) 
+
+Lesson #6: Wireframe and pseudocode. Students will draw out the look of what the website does and the pseudocode to explain their vision. This lesson will not involve any computers. Students will work together to brainstorm on paper.
+
+Lesson #8: Importance of pair programming. We will discuss this to get more buy in and develop protocols for how to do this effectively. Students will begin to code their website using pair programming. 
+
+Lesson #9: Accessibility. Students will use an online tool to measure the accessibility of their website. We will discuss elements of accessibility that are important when designing a website. Students will go back to revise these aspects of their website. 
+
+Lesson #8: Gallery walk. Students will review other group's websites and provide glows and grows on their website including information about the user experience and overall aestetic and provide guidance about how the group can improve their website. 
+
+Lesson #9: Students will continue work on their website considering some of the feedback they received from classmates. They will submit the website on github for a summative grade. 
 
 ---
 
