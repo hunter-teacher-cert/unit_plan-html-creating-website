@@ -87,7 +87,9 @@ Total lenght: 2 weeks
 
 Lesson #1: Introduction to HTML (including headers, paragraphs, images, line breaks, divs) 
 
-Lesson #2: 
+Lesson #2: Students will make a webpage that showcases some of the basic skills they learned on the previous day. They will make a webpage of something they are interested in - like a hobby, a tiktok star they like, musician etc. 
+
+Lesson #3: 
 
 ---
 
