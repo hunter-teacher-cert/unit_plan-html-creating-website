@@ -78,9 +78,13 @@ Digital Literacy
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 weeks 
 
 (list each lesson with main topic(s))
+
+Lesson #1: Introduction to HTML (including headers, paragraphs, images, line breaks, divs) 
+
+Lesson #2: 
 
 ---
 
