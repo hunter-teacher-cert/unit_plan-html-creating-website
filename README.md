@@ -89,7 +89,7 @@ Lesson #1: Introduction to HTML (including headers, paragraphs, images, line bre
 
 Lesson #2: Students will make a webpage that showcases some of the basic skills they learned on the previous day. They will make a webpage of something they are interested in - like a hobby, a tiktok star they like, musician etc. 
 
-Lesson #3: 
+Lesson #3: Styling their website (CSS). Look at some prominent websites - what style do all successful websites have. 
 
 ---
 
