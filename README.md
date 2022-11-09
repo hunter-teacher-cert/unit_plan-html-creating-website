@@ -64,7 +64,11 @@ Digital Literacy
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
-HTML, CSS
+
+-HTML, CSS
+-code.org
+-glitch
+-scrap paper to wireframe design of their website 
 
 ---
 
