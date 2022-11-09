@@ -1,4 +1,4 @@
-# UNIT PLAN NAME : Web Development
+# UNIT PLAN NAME : Introduction to HTML and CSS notation 
 by TEAM MEMBERS: Susie Seccafico Stacy Goldstein
 
 -----
