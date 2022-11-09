@@ -69,11 +69,14 @@ Digital Literacy
 -code.org
 -glitch
 -scrap paper to wireframe design of their website 
+-inspect tool on webpage 
 
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+
+w3schools website 
 
 ---
 
