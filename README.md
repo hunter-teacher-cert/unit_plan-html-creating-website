@@ -102,13 +102,13 @@ Lesson #5: Research a social cause they care about. Perhaps bring the librarian 
 
 Lesson #6: Wireframe and pseudocode. Students will draw out the look of what the website does and the pseudocode to explain their vision. This lesson will not involve any computers. Students will work together to brainstorm on paper.
 
-Lesson #8: Importance of pair programming. We will discuss this to get more buy in and develop protocols for how to do this effectively. Students will begin to code their website using pair programming. 
+Lesson #7: Importance of pair programming. We will discuss this to get more buy in and develop protocols for how to do this effectively. Students will begin to code their website using pair programming. 
 
-Lesson #9: Accessibility. Students will use an online tool to measure the accessibility of their website. We will discuss elements of accessibility that are important when designing a website. Students will go back to revise these aspects of their website. 
+Lesson #8: Accessibility. Students will use an online tool to measure the accessibility of their website. We will discuss elements of accessibility that are important when designing a website. Students will go back to revise these aspects of their website. 
 
-Lesson #8: Gallery walk. Students will review other group's websites and provide glows and grows on their website including information about the user experience and overall aestetic and provide guidance about how the group can improve their website. 
+Lesson #9: Gallery walk. Students will review other group's websites and provide glows and grows on their website including information about the user experience and overall aestetic and provide guidance about how the group can improve their website. 
 
-Lesson #9: Students will continue work on their website considering some of the feedback they received from classmates. They will submit the website on github for a summative grade. 
+Lesson #10: Students will continue work on their website considering some of the feedback they received from classmates. They will submit the website on github for a summative grade. 
 
 ---
 
