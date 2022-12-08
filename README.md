@@ -92,11 +92,13 @@ Total lenght: 2 weeks
 
 Lesson #1: Introduction to HTML (including headers, paragraphs, images, line breaks, divs) 
 
-Lesson #2: Students will make a webpage that showcases some of the basic skills they learned on the previous day. They will make a webpage of something they are interested in - like a hobby, a tiktok star they like, musician etc. 
 
-Lesson #3: Styling their website (CSS). Look at some prominent websites - what style do all successful websites have (apple,google,amazon, Midwood website etc.). We will learn how to do that and spruce up the existing websites they made using basic elements of  CSS that we learned in this lesson such as spacing, centering, color, change of font etc.) 
 
-Lesson #4: More in depth practice with CSS. CSS selectors. Grids etc. 
+Lesson #2: Styling their website (CSS). Look at some prominent websites - what style do all successful websites have (apple,google,amazon, Midwood website etc.). We will learn how to do that and spruce up the existing websites they made using basic elements of  CSS that we learned in this lesson such as spacing, centering, color, change of font etc.) 
+
+Lesson #3: Students will make a webpage that showcases some of the basic skills they learned on the previous days. They will make a webpage on how to create their favorite recipe 
+
+Lesson #4: More in depth practice wit.  CSS. CSS selectors. Grids etc. 
 
 Lesson #5: Research a social cause they care about. Perhaps bring the librarian in to teach students how to find sources. Students will work to write a proposal for a social cause they want to tackle with a website. (Groups of 2) 
 
